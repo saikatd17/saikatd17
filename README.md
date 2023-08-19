@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saikatd17
 - 👀 I’m interested in Social Network Analysis
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, KNIME
 - 💞️ I’m looking to collaborate on Network Analysis projects
 - 📫 To collaborate you can reach me at saikat.das@spjimr.org
 
